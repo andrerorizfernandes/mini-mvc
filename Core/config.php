@@ -11,9 +11,9 @@ define('DEBUG', true);
 
 define('DB_TYPE', 'mysql'); // mysql or pgsql
 define('DB_HOST', '127.0.0.1');
-define('DB_NAME', 'testes');
+define('DB_NAME', 'bancodeestudo');
 define('DB_USER', 'root');
-define('DB_PASS', 'root');
+define('DB_PASS', '18071988');
 define('DB_PORT', '3306');// 3306 or 5432
 define('DB_CHARSET', 'utf8mb4');
 
